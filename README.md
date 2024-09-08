@@ -1,7 +1,7 @@
 
 #Olá, 👋
 
-Sou Letícia Matos, iniciando minha jornada na area de programação como desenvolvedora front end, atualmente estou aprendendo e criando projetos com HTML, CSS, começando a aprender JavaScript para melhorar meus projetos.
+Sou Letícia Matos, iniciando minha jornada na area de programação como desenvolvedora front end, atualmente estou aprendendo e criando projetos com HTML, CSS, começando a estudar JavaScript para melhorar meus projetos.
 <br>
 <br>
 
