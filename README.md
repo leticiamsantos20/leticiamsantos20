@@ -5,7 +5,7 @@ Sou Letícia Matos, iniciando minha jornada na area de programação como desenv
 <br>
 <br>
 
-  ![Letícia Matos stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Letícia Matos stats](https://github-readme-stats.vercel.app/api?username=leticiamsantos20&show_icons=true&theme=transparent)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamsantos20&size_weight=0.5&count_weight=0.5)
