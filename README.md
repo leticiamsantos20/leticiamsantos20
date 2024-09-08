@@ -10,3 +10,5 @@ Sou Letícia Matos, iniciando minha jornada na area de programação como desenv
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamsantos20&size_weight=0.5&count_weight=0.5)
+<br>
+![](https://komarev.com/ghpvc/?username=leticiamsantos20)
