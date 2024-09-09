@@ -1,7 +1,7 @@
 
 #Oiee, Sou a Letícia Matos!!
 <div>
-    ![Letícia Matos stats](https://github-readme-stats.vercel.app/api?username=leticiamsantos20&show_icons=true&theme=midnight-purple)
+
 
 
 </div> 
